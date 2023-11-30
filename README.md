@@ -4,10 +4,10 @@ Este código tem como objetivo ler os endereços de uma planilha do Excel, chama
 Geolocalização a partir de Endereços - Python
 Este script Python utiliza a biblioteca Pandas para ler um arquivo Excel contendo endereços, fazendo consultas à API Nominatim (OpenStreetMap) para encontrar a geolocalização (latitude e longitude) correspondente a cada endereço.
 
-Requisitos
-Python 3.x
-Pandas
-Requests
+# Requisitos
+- Python 3.x
+- Pandas
+- Requests
 Instale as bibliotecas Python necessárias usando o seguinte comando:
 
 
