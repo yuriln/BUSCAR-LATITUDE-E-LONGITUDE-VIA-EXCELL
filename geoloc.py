@@ -17,9 +17,9 @@ def encontrar_geolocalizacao(endereco):
         return None, None
 
 # Carrega o arquivo
-caminho_arquivo = '"teste.xlsx"' #substitua pelo caminho do teu arquivo 
-nome_planilha = 'Planilha1'  # Nome da planilha onde estão os endereços
-coluna_enderecos = 'endereços'  # Nome da coluna com os endereços
+caminho_arquivo = 'Q:\\tests.xlsx' #substitua pelo caminho do teu arquivo 
+nome_planilha = 'teste'  # Nome da planilha onde estão os endereços
+coluna_enderecos = 'end'  # Nome da coluna com os endereços
 
 # Lê o arquivo Excel usando o pandas
 try:
